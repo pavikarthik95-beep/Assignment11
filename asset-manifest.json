@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/[https://pavikarthik95-beep.github.io/Assignment11](https://pavikarthik95-beep.github.io/Assignment11)/static/css/main.f15fb462.css",
-    "main.js": "/[https://pavikarthik95-beep.github.io/Assignment11](https://pavikarthik95-beep.github.io/Assignment11)/static/js/main.946e0164.js",
-    "index.html": "/[https://pavikarthik95-beep.github.io/Assignment11](https://pavikarthik95-beep.github.io/Assignment11)/index.html",
-    "main.f15fb462.css.map": "/[https://pavikarthik95-beep.github.io/Assignment11](https://pavikarthik95-beep.github.io/Assignment11)/static/css/main.f15fb462.css.map",
-    "main.946e0164.js.map": "/[https://pavikarthik95-beep.github.io/Assignment11](https://pavikarthik95-beep.github.io/Assignment11)/static/js/main.946e0164.js.map"
+    "main.css": "/Assignment11/static/css/main.b59085fd.css",
+    "main.js": "/Assignment11/static/js/main.9c0594a7.js",
+    "index.html": "/Assignment11/index.html",
+    "main.b59085fd.css.map": "/Assignment11/static/css/main.b59085fd.css.map",
+    "main.9c0594a7.js.map": "/Assignment11/static/js/main.9c0594a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15fb462.css",
-    "static/js/main.946e0164.js"
+    "static/css/main.b59085fd.css",
+    "static/js/main.9c0594a7.js"
   ]
 }
